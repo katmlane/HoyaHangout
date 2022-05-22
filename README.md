@@ -14,7 +14,7 @@ I will add more as the project is completed.
 ## Optimizations
 *(optional)*
 
-I will add more as the project is completed.
+I would like to add arrow buttons to each of the plant species pages that lets you navigate in the order of the home page items. 
 
 ## Lessons Learned:
 
